@@ -3,7 +3,7 @@ package day10;
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
-public class Problem1 {
+public class Problem2 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(new File(args[0]));
         int cycle = 0;

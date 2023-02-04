@@ -21,5 +21,6 @@ public class Problem1 {
             totalScore += score(s.charAt(0), (char)(s.charAt(2)-23));
         }
         System.out.println(totalScore);
+        sc.close();
     }
 }
